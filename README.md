@@ -16,4 +16,4 @@ BS-01 is a lightweight responsive startup business website template with a stand
 - Light Gallery
 - Font Awesome
 ## Screenshot
-![business website template](https://cdn.dribbble.com/userupload/7362144/file/original-6236a0a3ee51cc6e3d6bc01963707434.png)
+![business website template](https://cdn.dribbble.com/userupload/7359407/file/original-51d13d6775a6702045a93ce1b260ec0e.png)
