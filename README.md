@@ -15,3 +15,5 @@ BS-01 is a lightweight responsive startup business website template with a stand
 - Owl Carousel
 - Light Gallery
 - Font Awesome
+## Screenshot
+![business website template](https://dribbble.com/shots/21579142-Simple-blank-business-website-template)
