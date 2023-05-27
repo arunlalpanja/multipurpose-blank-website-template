@@ -2,7 +2,7 @@
 
 BS-01 is a responsive startup business website template with a common colour scheme. It's flexible and easy to customize.
 
-### Features Included
+## Features Included
 - Flexible sticky responsive navigation menu
 - Full screen image and text slider
 - Cool on scroll animation effect 
@@ -11,7 +11,7 @@ BS-01 is a responsive startup business website template with a common colour sch
 - On click off canvas drawer search 
 - Multiple accordions used in a single page
 
-### Libraries Used
+## Libraries Used
 - Bootstrap 5
 - jQuery
 - Animation on Scroll(AOS)
