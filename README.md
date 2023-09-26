@@ -1,4 +1,4 @@
-# Business Website Template
+# Multipurpose blank Website Template
 BS-01 is a lightweight responsive startup business website template with a standard color scheme. It's flexible and easy to customize.
 ## Features Included
 - Flexible sticky responsive navigation menu
