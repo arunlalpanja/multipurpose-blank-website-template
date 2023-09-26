@@ -1,5 +1,5 @@
 # Multipurpose Blank Website Template
-BS-01 is a lightweight responsive blank website template
+BS-01 is a lightweight responsive blank website template built with the most popular Bootstrap 5 CSS framework.
 ## Features Included
 - Flexible sticky responsive navigation menu
 - Full-screen image and text slider
